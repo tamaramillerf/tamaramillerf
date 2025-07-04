@@ -40,7 +40,7 @@ Currently mastering web development through Eastern College’s Web Developer Us
 ---
 
 ## 📬 Connect with Me  
-[LinkedIn](www.linkedin.com/in/tamara-miller-falls-140199161)
+[LinkedIn](https://www.linkedin.com/in/tamara-miller-falls-140199161)
 
 ---
 

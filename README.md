@@ -2,7 +2,7 @@
 Aspiring Web Developer | Former Digital Marketer | Halifax, NS 🇨🇦
 
 Crafting seamless user experiences and diving deep into code.  
-Currently mastering web development fundamentals and version control through Eastern College’s Web Developer Using AI + Internship program.
+Currently mastering web development through Eastern College’s Web Developer Using AI + Internship program.
 
 ![Install Demo](https://github.com/tamaramillerf/tamaramillerf/blob/main/web%20development%20GIF.gif?raw=true)
 ---
@@ -40,7 +40,7 @@ Currently mastering web development fundamentals and version control through Eas
 ---
 
 ## 📬 Connect with Me  
-[LinkedIn](https://linkedin.com/in/tamaramillerf)
+[LinkedIn](www.linkedin.com/in/tamara-miller-falls-140199161)
 
 ---
 
